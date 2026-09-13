@@ -1,4 +1,4 @@
-# CGPA Calculator
+# CodeAlpha_CGPA-Calculator
 
 A command-line C++ program that calculates semester GPA and overall CGPA from course grades and credit hours.
 
