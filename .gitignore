@@ -1,0 +1,4 @@
+cgpa_calculator
+*.o
+*.out
+.DS_Store
